@@ -1,0 +1,18 @@
+body {
+    background-color: aliceblue;
+}
+
+h1{
+    color: cadetblue;
+}
+
+h3{
+    color: cadetblue;
+}
+
+hr {
+    color: grey;
+    border: 9px;
+    border-style: none none dotted;
+    width: 7%;
+}
